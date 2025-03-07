@@ -27,10 +27,11 @@ Recipe Add/Edit Forms: Allows users to input new recipes or edit existing ones. 
 Recipe Delete Option: Provides the ability to delete a recipe from the database.
 # SCREENSHOT
 <img width="1430" alt="Screenshot 2025-03-07 at 2 33 13 PM" src="https://github.com/user-attachments/assets/6a625e37-29e8-4697-8782-e256a2d47925" />
+<img width="1413" alt="Screenshot 2025-03-07 at 2 32 10 PM" src="https://github.com/user-attachments/assets/e48e0d4b-c0a3-49a1-ab22-a395101c4389" />
 <img width="1440" alt="Screenshot 2025-03-07 at 2 34 57 PM" src="https://github.com/user-attachments/assets/462f38c4-c76c-4646-a30a-1f986f6bf7ac" />
 <img width="1438" alt="Screenshot 2025-03-07 at 2 33 05 PM" src="https://github.com/user-attachments/assets/ebb30c52-7029-4b00-8573-24dcde05338f" />
 
-<img width="1413" alt="Screenshot 2025-03-07 at 2 32 10 PM" src="https://github.com/user-attachments/assets/e48e0d4b-c0a3-49a1-ab22-a395101c4389" />
+
 <img width="1440" alt="Screenshot 2025-03-07 at 2 34 22 PM" src="https://github.com/user-attachments/assets/cf11fa9e-6d5a-4c1f-ac2f-abeccb384a28" />
 <img width="1437" alt="Screenshot 2025-03-07 at 2 30 20 PM" src="https://github.com/user-attachments/assets/833c2545-ca35-45dc-b877-be5748ffb437" />
 
